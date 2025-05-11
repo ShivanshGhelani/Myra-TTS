@@ -1,0 +1,21 @@
+# Core framework
+fastapi>=0.104.0
+uvicorn>=0.24.0
+jinja2>=3.1.2
+
+# Text-to-Speech functionality
+edge-tts>=6.1.9
+langdetect>=1.0.9
+python-dotenv>=1.0.0
+
+# Audio processing
+pydub>=0.25.1
+
+# CORS support
+starlette>=0.27.0
+
+# Data validation
+pydantic>=2.4.2
+
+# Additional libraries
+python-multipart>=0.0.6

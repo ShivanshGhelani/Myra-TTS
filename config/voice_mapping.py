@@ -55,7 +55,7 @@ VOICE_MAPPING_MALE = {
 
 # Female voices from Microsoft Edge TTS
 VOICE_MAPPING_FEMALE = {
-    "en": "en-US-AriaNeural",  # English
+    "en" : "en-IN-NeerjaNeural",  
     "hi": "hi-IN-SwaraNeural",  # Hindi
     "de": "de-DE-KatjaNeural",  # German
     "es": "es-ES-ElviraNeural",  # Spanish
@@ -111,6 +111,6 @@ LANGUAGE_MAPPING = [
 
 
 # Default voice to use if language detection fails or language is not supported
-DEFAULT_VOICE = "en-US-JennyNeural"  # Female default
+DEFAULT_VOICE = "en-IN-NeerjaNeural"  # Female default
 DEFAULT_VOICE_MALE = "en-US-GuyNeural"  # Male default
 
